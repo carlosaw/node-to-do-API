@@ -1,9 +1,17 @@
-# node-mod-api
-## Pré-requisitos globais
-npm i -g nodemon typescript ts-node
+# NodeJS
+## Módulo 6: Projeto: To-do API
 
-## Instalação
-npm install
+# Pré-requisitos globais
+## npm i -g nodemon typescript ts-node
 
-## Para rodar o projeto
-npm run start-dev
+# Instalação
+## npm install
+
+# Banco de dados
+## DBeaver localhost(node_todo_simples)
+
+# Teste de api
+## Postman ou RestTestTest
+
+# Para rodar o projeto
+## npm run start-dev
